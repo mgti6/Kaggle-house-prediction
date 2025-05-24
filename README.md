@@ -1,0 +1,1 @@
+In this notebook, we’ll explore the renowned “House Prices – Advanced Regression Techniques” dataset. We’ll start with a thorough EDA, then preprocess the data, fit a baseline model, and finally refine it using cross-validation.
